@@ -64,3 +64,5 @@ process_apks(apk_folder, jadx_path, search_string, output_excel)
 # Download and set up Jadx:
 # Ensure you have Jadx installed on your system. If not, download it from the Jadx GitHub repository.
 # The Python script:
+
+#https://github.com/skylot/jadx
